@@ -2,6 +2,11 @@
 
 # About Me
 Hello, my name is Neil Ryan Alvarez, and I am a student pursuing a Bachelor's in Computer Science at UTRGV.
+
+# Connect with ME
+
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white neilryan.alvarez21@gmail.com
+
 <!--
 **neilryanalvarez21/neilryanalvarez21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
